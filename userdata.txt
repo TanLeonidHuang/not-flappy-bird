@@ -1,0 +1,8 @@
+tester.testee123.NO
+bloopy.password123.NO
+Test123.123123123.No
+Test2.123123123.No
+test3.123123123.NO
+test4.123123123.ADMIN
+sfgvc.s/234623445.ADMIN
+Lyuba1.12345678.ADMIN

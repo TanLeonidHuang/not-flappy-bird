@@ -1,0 +1,1116 @@
+2022-08-11 18:45:39,808 INFO G.GameManager [main] New instance of GameManager is being initialized
+2022-08-11 18:45:39,848 INFO G.GamePlayer [main] Game Player created
+2022-08-11 18:45:39,883 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-11 18:45:39,896 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:39,897 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-11 18:45:39,897 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:39,897 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:39,897 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:39,897 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-11 18:45:39,898 INFO G.GameBoard [main] Gameboard instance created
+2022-08-11 18:45:39,898 INFO G.GameManager [main] New instance of Game Manager created
+2022-08-11 18:45:39,935 INFO G.PlayGame [main] New GameManagerObserver has been created
+2022-08-11 18:45:39,935 INFO G.GameManager [main] Observer added to observable with the property name 'obstacles' with the Property change listener The_GUI.GameManagerObserver@5026735c
+2022-08-11 18:45:39,935 INFO G.GameManager [main] timer backend has started
+2022-08-11 18:45:40,307 INFO G.GameManager [main] Observers of this Game Manager notified ofjava.beans.PropertyChangeEvent[propertyName=gameEnd; oldValue=stop; newValue=run; propagationId=null; source=GameProgram.GameManager@32193bea]
+2022-08-11 18:45:40,308 INFO G.GameManager [main] Front-end notified that game has begun in the backend.
+2022-08-11 18:45:40,323 INFO G.GameBoard [main] Observer added
+2022-08-11 18:45:40,323 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,323 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,323 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,324 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,348 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,365 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,366 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,366 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,366 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,382 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,382 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,382 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,382 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,382 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,383 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,383 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,383 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,383 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,399 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,417 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,417 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,417 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,417 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,418 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,418 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,418 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,418 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,418 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,435 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,435 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,435 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,436 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,436 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,437 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,437 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,437 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,437 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,454 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,454 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,455 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,471 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,471 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,471 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,471 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,472 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,472 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,472 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,472 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,472 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,489 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,489 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,489 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,489 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,490 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,490 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,490 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,490 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,490 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,506 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,507 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,507 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,507 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,523 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,524 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,524 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,524 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,540 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,541 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,541 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,541 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,557 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,558 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,574 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,575 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,576 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,592 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,609 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,626 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,626 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,626 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,626 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,626 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,627 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,627 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,627 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,627 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,644 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,645 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,645 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,645 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,661 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,662 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,662 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,678 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,695 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,712 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,713 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,713 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,713 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,729 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,730 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,730 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,746 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,764 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,780 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,781 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,798 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,798 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,798 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,798 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,798 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,799 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,799 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,799 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,799 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,815 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,832 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,833 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,849 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,866 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,866 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,866 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,866 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,866 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,868 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,868 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,868 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,884 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,900 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,917 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,933 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,950 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,966 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,967 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:40,983 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,000 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,000 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,000 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,000 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,000 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-11 18:45:41,000 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:41,000 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:41,001 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 18:45:41,001 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-11 18:45:41,001 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,001 INFO G.GameBoard [main] Observers have been notified of an 'update Obstacles event' 
+2022-08-11 18:45:41,001 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,001 INFO G.GameBoard [main] randomize rewards initiated
+2022-08-11 18:45:41,019 INFO G.Reward [main] Reward has been initialized
+2022-08-11 18:45:41,019 INFO G.Reward [main] Reward has been initialized
+2022-08-11 18:45:41,019 INFO G.Reward [main] Reward has been initialized
+2022-08-11 18:45:41,019 INFO G.GameBoard [main] randomize rewards completed
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] Observers have been notified of an 'update Rewards event' 
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,020 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,036 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,036 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,036 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,036 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,037 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,037 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,037 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,037 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,037 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,053 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,054 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,054 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,070 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,071 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,087 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,088 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,088 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,104 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,121 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,122 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,122 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,138 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,154 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,154 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,154 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,155 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,171 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,188 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,205 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,221 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,237 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,238 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,238 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,254 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,255 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,255 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,255 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,271 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,271 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,271 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,271 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,271 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,272 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,272 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,272 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,272 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,288 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,289 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,305 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,322 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,322 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,322 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,322 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,323 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,323 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,323 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,323 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,323 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,339 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,356 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,357 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,357 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,373 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,389 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,405 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,405 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,405 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,405 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,405 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,406 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,406 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,406 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,406 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,422 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,438 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,455 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,472 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,488 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,488 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,488 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,488 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,488 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,489 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,489 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,489 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,489 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,505 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,506 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,506 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,506 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,522 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,523 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,523 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,523 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,539 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,556 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,573 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,590 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,608 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,625 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,641 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,657 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,673 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,690 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,691 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,691 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,707 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,724 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,741 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,742 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,743 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,759 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,759 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,759 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,759 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,760 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,760 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,760 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,760 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,760 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,777 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,778 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,794 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,795 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,795 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,795 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,811 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,828 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,844 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,861 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,877 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,893 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,909 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,925 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,941 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,957 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,973 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,974 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:41,990 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:41,990 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:41,991 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,007 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,023 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,040 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,040 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,040 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,040 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,040 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,041 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,041 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,041 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,041 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,057 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,073 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,090 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,091 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,091 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,091 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,107 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,124 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,141 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,158 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,175 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,191 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,191 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,192 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,208 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,209 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,209 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,224 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,225 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,225 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,225 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,226 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,226 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,226 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,226 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,226 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,242 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,260 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,277 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,294 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,311 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,328 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,344 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,360 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] objects have been moved left in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Observer Notified
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] observers have been notified that objects have moved left in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Obstacles in the process of being updated in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Rewards in the process of being updated in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] gameplayer is touching reward in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Checking to see if gameplayer is touching a reward
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] A reward is in the process if being removed in the backend, observers will be notified
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Gameplayer is touching the bottom in the backend
+2022-08-11 18:45:42,376 INFO G.GameBoard [main] Gameplayer is touching an obstacle in the back end
+2022-08-11 18:45:42,390 INFO G.GameManager [main] game timer has ended in the backend
+2022-08-11 18:45:42,398 INFO G.GameManager [main] Observers of this Game Manager notified ofjava.beans.PropertyChangeEvent[propertyName=gameEnd; oldValue=run; newValue=stop; propagationId=null; source=GameProgram.GameManager@32193bea]
+2022-08-11 18:45:42,399 INFO G.GameManager [main] GUI has been notified that the game has ended in the back end.
+2022-08-11 18:45:42,399 INFO G.GameManager [main] Reward score generated.
+2022-08-11 18:45:42,424 INFO G.IntegerComparator [main] Integer Comparator initialized.

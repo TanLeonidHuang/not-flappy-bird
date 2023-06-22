@@ -1,0 +1,32 @@
+2022-08-13 23:56:53,325 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-13 23:56:53,348 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,348 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-13 23:56:53,348 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,349 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,349 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,349 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-13 23:56:53,350 INFO G.GameBoard [main] Gameboard instance created
+2022-08-13 23:56:53,351 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-13 23:56:53,351 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,351 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-13 23:56:53,351 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,351 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,351 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,351 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-13 23:56:53,351 INFO G.GameBoard [main] Gameboard instance created
+2022-08-13 23:56:53,354 INFO G.GameManager [main] New instance of GameManager is being initialized
+2022-08-13 23:56:53,357 INFO G.GamePlayer [main] Game Player created
+2022-08-13 23:56:53,358 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-13 23:56:53,358 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,358 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-13 23:56:53,359 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,359 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,359 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-13 23:56:53,359 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-13 23:56:53,359 INFO G.GameBoard [main] Gameboard instance created
+2022-08-13 23:56:53,359 INFO G.GameManager [main] New instance of Game Manager created
+2022-08-13 23:56:53,361 INFO G.GameManager [main] Observer added to observable with the property name 'obstacles' with the Property change listener The_GUI.GameManagerObserver@39dcf4b0
+2022-08-13 23:56:53,361 INFO G.GameManager [main] timer backend has started
+2022-08-13 23:56:53,619 INFO G.GameManager [main] Observers of this Game Manager notified ofjava.beans.PropertyChangeEvent[propertyName=gameEnd; oldValue=stop; newValue=run; propagationId=null; source=GameProgram.GameManager@5c77053b]
+2022-08-13 23:56:53,619 INFO G.GameManager [main] Front-end notified that game has begun in the backend.
+2022-08-13 23:56:53,619 INFO G.GameBoard [main] Observer added

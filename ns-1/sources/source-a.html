@@ -1,0 +1,181 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <title>Coverage Report > Obstacle</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/highlight-idea.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.pack.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../coverage_report_data/index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">GameProgram</a>
+</div>
+
+<h1>Coverage Summary for Class: Obstacle (GameProgram)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">Obstacle</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    87.5%
+  </span>
+  <span class="absValue">
+    (7/8)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    83.3%
+  </span>
+  <span class="absValue">
+    (10/12)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<div class="sourceCode" id="sourceCode"><i class="no-highlight">1</i>&nbsp;package GameProgram;
+<i class="no-highlight">2</i>&nbsp;
+<i class="no-highlight">3</i>&nbsp;import java.awt.*;
+<i class="no-highlight">4</i>&nbsp;import java.beans.PropertyChangeEvent;
+<i class="no-highlight">5</i>&nbsp;import java.beans.PropertyChangeListener;
+<i class="no-highlight">6</i>&nbsp;import java.beans.PropertyChangeSupport;
+<i class="no-highlight">7</i>&nbsp;
+<i class="no-highlight">8</i>&nbsp;public class Obstacle {
+<i class="no-highlight">9</i>&nbsp;    private final Dimension topObstacle;
+<i class="no-highlight">10</i>&nbsp;    private final Dimension bottomObstacle;
+<i class="no-highlight">11</i>&nbsp;
+<i class="no-highlight">12</i>&nbsp;    private int xCoordinate;
+<i class="no-highlight">13</i>&nbsp;
+<i class="no-highlight">14</i>&nbsp;    /**
+<i class="no-highlight">15</i>&nbsp;     * Creates Obstacle object
+<i class="no-highlight">16</i>&nbsp;     * @param topHeight the height of the upper obstacle
+<i class="no-highlight">17</i>&nbsp;     * @param bottomHeight the height of the lower obstacle
+<i class="no-highlight">18</i>&nbsp;     * @param x the coordinate of the location of the upper and lower obstacles
+<i class="no-highlight">19</i>&nbsp;     */
+<b class="fc"><i class="no-highlight">20</i>&nbsp;    public Obstacle(int topHeight, int bottomHeight, int x) {</b>
+<b class="fc"><i class="no-highlight">21</i>&nbsp;        topObstacle = new Dimension(30, topHeight);</b>
+<b class="fc"><i class="no-highlight">22</i>&nbsp;        bottomObstacle = new Dimension(30, bottomHeight);</b>
+<b class="fc"><i class="no-highlight">23</i>&nbsp;        xCoordinate = x;</b>
+<i class="no-highlight">24</i>&nbsp;    }
+<i class="no-highlight">25</i>&nbsp;
+<i class="no-highlight">26</i>&nbsp;    /**
+<i class="no-highlight">27</i>&nbsp;     * Sets the obstacle&#39;s upper/lower height and x coordinate location with the given values
+<i class="no-highlight">28</i>&nbsp;     * @param topHeight the initialized upper height
+<i class="no-highlight">29</i>&nbsp;     * @param bottomHeight the initialized lower height
+<i class="no-highlight">30</i>&nbsp;     * @param width the initialized x location
+<i class="no-highlight">31</i>&nbsp;     */
+<i class="no-highlight">32</i>&nbsp;    public void setObstacleSize(int topHeight, int bottomHeight, int width){
+<b class="nc"><i class="no-highlight">33</i>&nbsp;        topObstacle.setSize(width, topHeight);</b>
+<b class="nc"><i class="no-highlight">34</i>&nbsp;        bottomObstacle.setSize(width, bottomHeight);</b>
+<i class="no-highlight">35</i>&nbsp;    }
+<i class="no-highlight">36</i>&nbsp;
+<i class="no-highlight">37</i>&nbsp;    /**
+<i class="no-highlight">38</i>&nbsp;     * Returns the height of the upper part of the obstacle
+<i class="no-highlight">39</i>&nbsp;     * @return int
+<i class="no-highlight">40</i>&nbsp;     */
+<i class="no-highlight">41</i>&nbsp;    public int getTopObstacleHeight(){
+<b class="fc"><i class="no-highlight">42</i>&nbsp;        return topObstacle.height;</b>
+<i class="no-highlight">43</i>&nbsp;    }
+<i class="no-highlight">44</i>&nbsp;
+<i class="no-highlight">45</i>&nbsp;    /**
+<i class="no-highlight">46</i>&nbsp;     * Returns the height of the lower part of the obstacle
+<i class="no-highlight">47</i>&nbsp;     * @return int
+<i class="no-highlight">48</i>&nbsp;     */
+<i class="no-highlight">49</i>&nbsp;    public int getBottomObstacleHeight(){
+<b class="fc"><i class="no-highlight">50</i>&nbsp;        return bottomObstacle.height;</b>
+<i class="no-highlight">51</i>&nbsp;    }
+<i class="no-highlight">52</i>&nbsp;
+<i class="no-highlight">53</i>&nbsp;    /**
+<i class="no-highlight">54</i>&nbsp;     * Returns the width of the obstacles. Since the width is equal for both upper and lower obstacles,
+<i class="no-highlight">55</i>&nbsp;     * it returns from bottomObstacle.
+<i class="no-highlight">56</i>&nbsp;     * @return int
+<i class="no-highlight">57</i>&nbsp;     */
+<b class="fc"><i class="no-highlight">58</i>&nbsp;    public int getWidth() { return bottomObstacle.width; }</b>
+<i class="no-highlight">59</i>&nbsp;
+<i class="no-highlight">60</i>&nbsp;    /**
+<i class="no-highlight">61</i>&nbsp;     * Gets the current location of the Obstacles
+<i class="no-highlight">62</i>&nbsp;     * @return int
+<i class="no-highlight">63</i>&nbsp;     */
+<i class="no-highlight">64</i>&nbsp;    public int getLocation() {
+<b class="fc"><i class="no-highlight">65</i>&nbsp;        return xCoordinate;</b>
+<i class="no-highlight">66</i>&nbsp;    }
+<i class="no-highlight">67</i>&nbsp;
+<i class="no-highlight">68</i>&nbsp;    /**
+<i class="no-highlight">69</i>&nbsp;     * Moves the obstacle to the left towards the negative direction by changing the x coordinate.
+<i class="no-highlight">70</i>&nbsp;     */
+<i class="no-highlight">71</i>&nbsp;    public void moveLeft() {
+<b class="fc"><i class="no-highlight">72</i>&nbsp;        xCoordinate -= 1;</b>
+<i class="no-highlight">73</i>&nbsp;    }
+<i class="no-highlight">74</i>&nbsp;
+<b class="fc"><i class="no-highlight">75</i>&nbsp;    public void setLocation(int x) { this.xCoordinate = x; }</b>
+<i class="no-highlight">76</i>&nbsp;}
+</div>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+        var codeBlock = document.getElementById('sourceCode');
+
+        if (codeBlock) {
+            hljs.highlightBlock(codeBlock);
+        }
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2022-08-09 21:41</div>
+</div>
+</body>
+</html>

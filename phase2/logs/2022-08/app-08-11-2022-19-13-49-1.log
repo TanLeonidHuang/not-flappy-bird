@@ -1,0 +1,11 @@
+2022-08-11 19:13:49,263 INFO G.GameManager [main] New instance of GameManager is being initialized
+2022-08-11 19:13:49,278 INFO G.GamePlayer [main] Game Player created
+2022-08-11 19:13:49,280 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-11 19:13:49,281 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 19:13:49,281 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-11 19:13:49,281 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 19:13:49,281 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 19:13:49,283 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-11 19:13:49,283 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-11 19:13:49,283 INFO G.GameBoard [main] Gameboard instance created
+2022-08-11 19:13:49,283 INFO G.GameManager [main] New instance of Game Manager created
